@@ -96,6 +96,10 @@ public class LinkedList {
 		
 	}
 	
+	public void remove(){
+		
+	}
+	
 	public int find(Node n){
 		
 		Node temp = head;
