@@ -97,7 +97,8 @@ public class LinkedList {
 	}
 	
 	public void remove(){
-		
+		if(head == null)
+			return;
 	}
 	
 	public int find(Node n){
